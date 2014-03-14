@@ -9,6 +9,7 @@ The aim of this exercise was to act as an introduction to using:
 * Shotgun gem
 * Routes
 * HTML and CSS
+* The difference between absolute and relative URLs 
 
 ###Other details
 
